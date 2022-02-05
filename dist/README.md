@@ -1,12 +1,12 @@
 
-  # [audioplayer1](https://github.com/doctordutch/audioplayer1)
+  # [Audio Player](https://github.com/doctordutch/audioplayer1)
   
   ![GitHub](https://img.shields.io/github/license/doctordutch/audioplayer1?style=plastic)
   
   ![Most recent commit](https://img.shields.io/github/last-commit/doctordutch/audioplayer1)
-  ![GitHub language count](https://img.shields.io/github/languages/count/doctordutch/audioplayer1) ![GitHub top language](https://img.shields.io/github/languages/top/doctordutch/audioplayer1) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/doctordutch/audioplayer1) ![GitHub repo size](https://img.shields.io/github/repo-size/doctordutch/audioplayer1) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/doctordutch/audioplayer1)
+  ![GitHub language count](https://img.shields.io/github/languages/count/doctordutch/audioplayer1) ![GitHub top language](https://img.shields.io/github/languages/top/doctordutch/audioplayer1) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/doctordutch/audioplayer1) ![GitHub repo size](https://img.shields.io/github/repo-size/doctordutch/audioplayer1) ![GitHub issues](https://img.shields.io/github/issues-raw/doctordutch/audioplayer1) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/doctordutch/audioplayer1) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/doctordutch/audioplayer1)
   ## Description
-  Audio Player
+  Simple Audio Player using HTML5 & JavaScript
   ## Table of Contents
   * [Installation](##Installation)
   * [Usage](##Usage)
@@ -17,9 +17,38 @@
   
   ## Installation
   ```shell
-    Clone the code, have fun
+    Clone the Repo, Have Fun
   ```
   
+  
+  ## Usage
+
+  ### Setup Instructions
+
+  1. Clone the repo
+
+  ```shell
+  git@github.com:doctordutch/audioplayer1.git
+  ```
+
+  2. Move to the project root directory
+
+```shell
+cd audioplayer1
+```
+
+3. Run npm install
+
+```shell
+npm install
+```
+
+4. Run Readme Generator
+
+```shell
+Embed the code in your own website for a simple music/audio player
+```
+
   
   
   ## License
@@ -28,7 +57,7 @@
 
  MIT License
 
-Copyright (c) 2022 audioplayer1
+Copyright (c) 2022 Audio Player
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -51,9 +80,6 @@ SOFTWARE.
 
   
   
-  
-  ## Contribute
-  send me money  
   
 
 <br />
