@@ -1,5 +1,5 @@
 {
-  "name": "professional-readme-generator",
+  "name": "writeme",
   "version": "1.0.0",
   "description": "To quickly and easily generate a README file by using a command-line application to generate one.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fondofhats/professional-readme-generator.git"
+    "url": "git+https://github.com/doctordutch/writeme"
   },
-  "author": "Michael Giddings",
+  "author": "Justin VanHaven",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fondofhats/professional-readme-generator/issues"
+    "url": "https://github.com/doctordutch/writeme/issues"
   },
-  "homepage": "https://github.com/fondofhats/professional-readme-generator#readme",
+  "homepage": "https://github.com/doctordutch/writeme",
   "dependencies": {
     "axios": "^0.20.0",
     "inquirer": "^7.3.3",
