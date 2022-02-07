@@ -6,7 +6,7 @@
   ![Most recent commit](https://img.shields.io/github/last-commit/doctordutch/audioplayer1)
   ![GitHub language count](https://img.shields.io/github/languages/count/doctordutch/audioplayer1) ![GitHub top language](https://img.shields.io/github/languages/top/doctordutch/audioplayer1) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/doctordutch/audioplayer1) ![GitHub repo size](https://img.shields.io/github/repo-size/doctordutch/audioplayer1) ![GitHub issues](https://img.shields.io/github/issues-raw/doctordutch/audioplayer1) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/doctordutch/audioplayer1) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/doctordutch/audioplayer1)
   ## Description
-  A simple audio player in HTML5 and JavaScript
+  A Simple Audio Player using HTML5 and JavaScript
   ## Table of Contents
   * [Installation](##Installation)
   * [Usage](##Usage)
@@ -15,29 +15,11 @@
   * [Contribute](##Contribute)
   * [Questions](##Questions)
   
-  
-  ## Usage
-
-  ### Setup Instructions
-
-  1. Clone the repo
-
+  ## Installation
   ```shell
-  git@github.com:doctordutch/audioplayer1.git
+    clone the repo, enjoy
   ```
-
-  2. Move to the project root directory
-
-```shell
-cd audioplayer1
-```
-
-3. Run Program
-
-```shell
-Enjoy
-```
-
+  
   
   
   ## License
