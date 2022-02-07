@@ -15,7 +15,7 @@ npm install
 Run Readme Generator
 
 ```shell
-node index.js
+node index
 ```
 <br>
 <br>

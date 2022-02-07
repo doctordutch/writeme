@@ -6,7 +6,7 @@
   ![Most recent commit](https://img.shields.io/github/last-commit/doctordutch/audioplayer1)
   ![GitHub language count](https://img.shields.io/github/languages/count/doctordutch/audioplayer1) ![GitHub top language](https://img.shields.io/github/languages/top/doctordutch/audioplayer1) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/doctordutch/audioplayer1) ![GitHub repo size](https://img.shields.io/github/repo-size/doctordutch/audioplayer1) ![GitHub issues](https://img.shields.io/github/issues-raw/doctordutch/audioplayer1) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/doctordutch/audioplayer1) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/doctordutch/audioplayer1)
   ## Description
-  Simple Audio Player using HTML5 & JavaScript
+  A simple audio player in HTML5 and JavaScript
   ## Table of Contents
   * [Installation](##Installation)
   * [Usage](##Usage)
@@ -14,11 +14,6 @@
   * [Tests](##Tests) 
   * [Contribute](##Contribute)
   * [Questions](##Questions)
-  
-  ## Installation
-  ```shell
-    Clone the Repo, Have Fun
-  ```
   
   
   ## Usage
@@ -37,16 +32,10 @@
 cd audioplayer1
 ```
 
-3. Run npm install
+3. Run Program
 
 ```shell
-npm install
-```
-
-4. Run Readme Generator
-
-```shell
-Embed the code in your own website for a simple music/audio player
+Enjoy
 ```
 
   
@@ -81,6 +70,9 @@ SOFTWARE.
   
   
   
+  ## Contribute
+  send me lots of money  
+  
 
 <br />
 
@@ -90,6 +82,6 @@ SOFTWARE.
   
   <img src="https://avatars.githubusercontent.com/u/64736572?v=4" width="200" height="200"/>
   
-  <br/>Email Justin VanHaven with any support questions at <a href="mailto:vanhavenjustin@gmail.com">vanhavenjustin@gmail.com</a><br>
+  <br/>Email Doctor Dutch with any support questions at <a href="mailto:vanhavenjustin@gmail.com">vanhavenjustin@gmail.com</a><br>
   or visit my <a href="https://github.com/doctordutch">GitHub Homepage</a>.
   

@@ -68,13 +68,7 @@ const generateUsage = (usageText, user, repo) => {
 cd ${repo}
 \`\`\`
 
-3. Run npm install
-
-\`\`\`shell
-npm install
-\`\`\`
-
-4. Run Readme Generator
+3. Run Program
 
 \`\`\`shell
 ${usageText}
@@ -128,7 +122,6 @@ const generateContribute = contribInput => {
   `;
 };
 
-
 const showImage = (showImageUrl,imageUrl) => {
   if(!showImageUrl){
     return '';
@@ -137,7 +130,6 @@ const showImage = (showImageUrl,imageUrl) => {
   <img src="${imageUrl}" width="200" height="200"/>
   `;
 };
-
 
 const generateMarkdown = (data) => {
   return `
