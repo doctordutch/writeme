@@ -1,12 +1,12 @@
 
-  # [Audio Player](https://github.com/doctordutch/audioplayer1)
+  # [Audio Player ](https://github.com/doctordutch/audioplayer1)
   
   ![GitHub](https://img.shields.io/github/license/doctordutch/audioplayer1?style=plastic)
   
   ![Most recent commit](https://img.shields.io/github/last-commit/doctordutch/audioplayer1)
   ![GitHub language count](https://img.shields.io/github/languages/count/doctordutch/audioplayer1) ![GitHub top language](https://img.shields.io/github/languages/top/doctordutch/audioplayer1) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/doctordutch/audioplayer1) ![GitHub repo size](https://img.shields.io/github/repo-size/doctordutch/audioplayer1) ![GitHub issues](https://img.shields.io/github/issues-raw/doctordutch/audioplayer1) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/doctordutch/audioplayer1) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/doctordutch/audioplayer1)
   ## Description
-  A Simple Audio Player using HTML5 and JavaScript
+  A simple audio player using HTML5 and Javascript
   ## Table of Contents
   * [Installation](##Installation)
   * [Usage](##Usage)
@@ -17,7 +17,7 @@
   
   ## Installation
   ```shell
-    clone the repo, enjoy
+    clone the repo, enjoy!
   ```
   
   
@@ -28,7 +28,7 @@
 
  MIT License
 
-Copyright (c) 2022 Audio Player
+Copyright (c) 2022 Audio Player 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -53,7 +53,7 @@ SOFTWARE.
   
   
   ## Contribute
-  send me lots of money  
+  send me all your money  
   
 
 <br />
