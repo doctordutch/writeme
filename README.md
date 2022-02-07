@@ -12,14 +12,17 @@ Run npm install
 npm install
 ```
 
-Run Readme Generator
+Run writeme
 
 ```shell
-node index
+node writeme
 ```
 <br>
 <br>
 
+### Video Preview
+
+https://user-images.githubusercontent.com/64736572/152710867-5de9976c-250a-4f02-a43a-d176c4d78d19.mp4
 
 ### Technologies
 
